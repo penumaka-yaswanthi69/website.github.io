@@ -1,0 +1,57 @@
+.bgimg{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/00/90/97/85/1000_F_90978526_gWSm3ylSA7SlFIbJiTQe7FXTQhgJGg2m.jpg");
+    height:120vh;
+    width:100vw;
+    background-size: cover;
+
+}
+.foodhead{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 25px;
+
+}
+.layoutcard{
+    background-color: bisque;
+    border-radius: 8px;
+    width:80vw;
+    padding: 18px;
+    margin:15px;
+
+}
+.brandscont1{
+    color: deeppink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandscont2{
+    color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandscont3{
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandscont4{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.brandspara{
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.brandimg{
+    width: 100px;
+    height:100px;
+}
